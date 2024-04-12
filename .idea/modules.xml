@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Dattypes.iml" filepath="$PROJECT_DIR$/Dattypes.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kotlin_Programmes.iml" filepath="$PROJECT_DIR$/.idea/Kotlin_Programmes.iml" />
+>>>>>>> 502b58bb24aeeea1943048688cb61125e84faa51
     </modules>
   </component>
 </project>
